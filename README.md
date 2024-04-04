@@ -21,3 +21,7 @@
 ### *函数化简*
 **tip：** 此化简不一定正确，请仔细确认。
 输入函数表达式，单击开始，在弹出的对话框中就能看到化简完的函数，效果如下：![函数化简](https://raw.githubusercontent.com/Guoziqi329/Truth-table-of-logical-expressions/main/pictures/QQ%E6%88%AA%E5%9B%BE20240404181058.png)
+## Releases
+|单文件打包| 多文件打包 |
+|--|--|
+| [Truth_table_of_logical_expressions_Single_file_v2.0.exe](https://github.com/Guoziqi329/Truth-table-of-logical-expressions/releases/download/Truth_table_of_logical_expressions_v2.0/Truth_table_of_logical_expressions_Single_file_v2.0.exe) | [Truth_table_of_logical_expressions_Multiple_files_v2.0.zip](https://github.com/Guoziqi329/Truth-table-of-logical-expressions/releases/download/Truth_table_of_logical_expressions_v2.0/Truth_table_of_logical_expressions_Multiple_files_v2.0.zip) |
