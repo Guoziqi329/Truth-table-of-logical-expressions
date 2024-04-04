@@ -17,7 +17,7 @@ pip install pandas
 逻辑与可以用`*`或者两个字母中间没有任何字符来表示。例如`A*B`或`AB`
 逻辑或可以用`+`来表示。例如`A+B`
 逻辑非要用`<>`来表示，例如A非要在A的左右套上尖括号`<A>`，尖括号中间也可以写其他运算例如`<A+B>`
-## 3 .Access
+## 3.Releases
 |多文件打包| 单文件打包 |
 |--|--|
 | [Truth_table_of_logical_expressions_Multiple_files_v1.0.zip](https://github.com/Guoziqi329/Truth-table-of-logical-expressions/releases/download/Truth_table_of_logical_expressions/Truth_table_of_logical_expressions_Multiple_files_v1.0.zip) | [Truth_table_of_logical_expressions_Single_file_v1.0.exe](https://github.com/Guoziqi329/Truth-table-of-logical-expressions/releases/download/Truth_table_of_logical_expressions/Truth_table_of_logical_expressions_Single_file_v1.0.exe) |
