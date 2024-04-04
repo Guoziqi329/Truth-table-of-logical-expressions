@@ -1,4 +1,4 @@
-# Truth table of logical expressions_v2.0
+# Truth table of logical expressions v2.0
 相较于1.0增加了多返回逻辑函数画图和函数化简功能
 ## 运行环境
 
